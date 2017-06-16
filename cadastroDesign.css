@@ -1,0 +1,18 @@
+/*formatação de páginas de cadastro*/
+
+body{ color:darkgreen; 
+	font-family:Arial; 
+	line-height: 40px;
+	background-image:url("esporte-campo-de-futebol.jpg"); 
+	background-repeat: no-repeat; 
+	background-attachment: fixed; 
+	background-size: 100% 100%; 
+}
+
+div{ background-color:limegreen; 
+	position:static; 
+	top:25%; 
+	left:6%; 
+	border: 5px solid green;
+	padding:50px;
+}
